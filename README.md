@@ -168,7 +168,7 @@ test_DataCapture.py .                                     [100%]
 3. **Commit your changes (git commit -m 'Add some feature')**
 4. **Push to the branch (git push origin feature-branch)**
 5. **Open a Pull Request**
-We welcome any ideas, bug fixes, or improvements!
+- We welcome any ideas, bug fixes, or improvements!
 ---
 ## License
 MIT License
