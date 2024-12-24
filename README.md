@@ -3,7 +3,7 @@
 This repository provides a Python script to fetch Level-2 (L2) order book data from Binance (via [CCXT](https://github.com/ccxt/ccxt)) and store that data into a MongoDB collection. It includes:
 
 1. **DataCapture.py**: Main script that connects to MongoDB, fetches order book data (bids and asks) for specified symbols, and inserts the data into MongoDB.  
-2. **tests/** (or equivalent naming): Contains test modules (e.g., `test_DataCapture.py`) that use [mongomock](https://github.com/mongomock/mongomock) to mock MongoDB and `unittest.mock` to mock the exchange calls.
+2. **tests/**: Contains test modules (e.g., `test_DataCapture.py`) that use [mongomock](https://github.com/mongomock/mongomock) to mock MongoDB and `unittest.mock` to mock the exchange calls.
 
 ## Table of Contents
 - [Features](#features)
