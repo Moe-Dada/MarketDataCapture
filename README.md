@@ -1,3 +1,7 @@
+![License](https://img.shields.io/github/license/Moe-Dada/Multi-Asset-Crypto-Backtest)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![CCXT](https://img.shields.io/badge/CCXT-1.95.72-yellow)
+
 # L2 Market Data Capture
 
 This repository provides a Python script to fetch Level-2 (L2) order book data from Binance (via [CCXT](https://github.com/ccxt/ccxt)) and store that data into a MongoDB collection. It includes:
