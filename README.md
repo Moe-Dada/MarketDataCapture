@@ -170,5 +170,5 @@ test_DataCapture.py .                                     [100%]
 5. **Open a Pull Request**
 We welcome any ideas, bug fixes, or improvements!
 ---
-License
+## License
 MIT License
